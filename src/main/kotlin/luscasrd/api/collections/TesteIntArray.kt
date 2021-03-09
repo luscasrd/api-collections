@@ -15,8 +15,8 @@ fun main(){
 
     println("--------------")
 
-    values.forEach {
-        println(it)
+    values.forEach { values ->
+        println(values)
     }
 
     println("--------------")
